@@ -2,6 +2,8 @@
 
 This is a Python Sample code showing how to send a voice message in Hebrew to a user's phone using the Nexmo Voice API
 
+Video explanation: https://www.youtube.com/watch?v=RJOj8K68Vso
+
 Requirements
 - Create a Nexmo account (free)
 - Create an application and save the private key
