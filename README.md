@@ -1,4 +1,4 @@
-# py-etype-tts-sample-code
+# py-tts-hebrew-sample-code
 
 This is a Python Sample code showing how to send a voice message in Hebrew to a user's phone using the Nexmo Voice API
 
